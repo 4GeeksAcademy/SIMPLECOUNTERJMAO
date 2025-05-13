@@ -9,3 +9,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter{
+    background-color: black;
+    color: white;
+    font-size: 45px;
+    margin: 8px;
+    padding:60px;
+    border-radius: 15px;
+    border-color: white;
+}
+.watch{
+    background-color: grey;
+    border-radius: 15px;
+    
+}
+
+.firstrow{
+    background-color:red;
+    color: white;
+    font-size: 45px;
+    margin: 8px;
+    padding:60px;
+    border-radius: 15px;
+    border-color: white;
+}
